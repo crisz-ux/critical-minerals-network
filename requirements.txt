@@ -1,0 +1,19 @@
+# Python 3.12 consigliato (3.10-3.12)
+numpy
+pandas>=2.2,<3
+pyarrow
+scipy
+statsmodels
+scikit-learn
+lightgbm
+lifelines
+pyfixest==0.60.0          # versione usata per la tesi (le successive cambiano il demeaning)
+networkx
+python-igraph
+matplotlib
+pillow
+openpyxl
+xlrd
+python-calamine
+jupyter
+certifi
