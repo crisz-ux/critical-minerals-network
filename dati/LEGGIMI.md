@@ -1,1 +1,0 @@
-vedi il README principale.
